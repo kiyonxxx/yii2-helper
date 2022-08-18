@@ -1,5 +1,5 @@
 {
-    "name": "dicr/yii2-helper",
+    "name": "kiyonxxx/yii2-helper",
     "type": "yii2-extension",
     "license": "GPL-3.0-or-later",
     "description": "Набор вспомогательных утилит для Yii2",
@@ -35,7 +35,7 @@
         {"type": "composer", "url": "https://asset-packagist.org"}
     ],
     "require": {
-        "php": "~7.4 || ~8.0.1",
+        "php": ">=7.4",
         "ext-mbstring": "*",
         "ext-intl": "*",
 
